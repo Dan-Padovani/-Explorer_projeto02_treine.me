@@ -9,9 +9,6 @@ body {
 	width: 1000px;
 	margin: 0 auto;
 	padding-top: 65px;
-	/*Com o antigo margin de 65px ele somova com o height de 100vh, causando uma barra de rolagem
-	
-	com o padding ele compensa isto, pois a margin empurra o conteúdo*/
 }
 
 nav {
